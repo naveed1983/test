@@ -4,3 +4,8 @@ print("hello world")
 st='diff' + 'erence'
 print(st)
 
+# function
+def sqr(x):
+    y=x**x
+    return y
+print(y)
