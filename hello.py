@@ -4,3 +4,4 @@ print("hello world")
 def sqr(x):
     y=x**x
     return y
+print(y)
